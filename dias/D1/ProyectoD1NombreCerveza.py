@@ -1,7 +1,4 @@
 #print("Ingresa una idea")
 
-idea1= input("Ingresa una idea: ")
 
-idea2= input("Ingresa otra idea: ")
-
-print('El Nombre de la cerveza es: \n"'+idea1+' '+idea2+'"')
+print('El Nombre de tu cerveza es: \n"'+input("Qué ciudad te gustaría visitar?: ")+' '+input("Cuál es tu color favorito?: ")+'"')
